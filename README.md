@@ -19,7 +19,7 @@
 
 - NFT & Defi
 <table>
-    <thead align="center">
+    <thead align="text-center">
         <tr>
             <td>CoinPlug</td>
             <td>Bitecoin</td>           
