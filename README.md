@@ -72,3 +72,19 @@
         </td> 
     </tr>  
 </table>
+
+#### As a blockchain developer and i love working in DeFi/Fintech projects.
+
+- Blockchain websites managing blockchain transaction on Bitcoin,Ethereum,etc.
+- NFT websites & NFT marketplaces like PancakeSwap, Aave, & OpenSea.
+- Fork of PancakeSwap, Aave.
+- Decentralized Exchanges with Aave.
+- Smart contracts for Lotteries, Staking ,erc20, erc721, pre-sale, redistribution, etc.
+
+#### Also as Full Stack developer and i love working in Commerical projects too.
+
+- Commerical websites managing,Blogs,Educational, Ecommerce,Entertainment & more.
+- API creation, managment & integration.
+- Database Data Management.
+- Frontend UI designs.
+- Backend setups.
