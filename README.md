@@ -38,3 +38,37 @@
         </td> 
     </tr>
 </table>
+
+- FullStack
+<table>
+<thead align="center">
+        <tr>
+            <td>AirBooks</td>
+            <td>CartMe</td>
+            <td>Cweetbeatz</td>
+            <td>ShopMe</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="#">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(532).png" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="#">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(539).png" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="#">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(542).png" width="200">
+            </a>
+        </td> 
+           <td>
+            <a href="#" target="_blank">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
+            </a>
+        </td> 
+    </tr>  
+</table>
