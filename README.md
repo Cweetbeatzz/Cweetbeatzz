@@ -15,3 +15,26 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cweetbeatzz&show_icons=true&locale=en&layout=compact" alt="cweetbeatzz" /></p>
 
+### DeFi & FullStack Experiences
+
+- NFT & Defi
+<table>
+    <thead align="center">
+        <tr>
+            <td>CoinPlug</td>
+            <td>Bitecoin</td>           
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://coinplug.netlify.com//">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(517).png" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://bitecoinn.netlify.com//">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(510).png" width="200">
+            </a>
+        </td> 
+    </tr>
+</table>
