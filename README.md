@@ -81,7 +81,7 @@
 - Decentralized Exchanges with Aave.
 - Smart contracts for Lotteries, Staking ,erc20, erc721, pre-sale, redistribution, etc.
 
-#### Also as Full Stack developer and i love working in Commerical projects too.
+#### Also as a Full Stack developer and i love working in Commerical projects too.
 
 - Commerical websites managing,Blogs,Educational, Ecommerce,Entertainment & more.
 - API creation, managment & integration.
