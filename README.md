@@ -46,7 +46,7 @@
             <td>AirBooks</td>
             <td>CartMe</td>
             <td>Cweetbeatz</td>
-            <td>ShopMe</td>  
+            <td>Fashion5</td>  
         </tr>
     </thead>
     <tr>
@@ -66,7 +66,7 @@
             </a>
         </td> 
            <td>
-            <a href="#" target="_blank">
+            <a href="https://fashion5.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
             </a>
         </td> 
