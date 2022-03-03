@@ -43,7 +43,7 @@
 <table>
 <thead align="center">
         <tr>
-            <td>AirBooks</td>
+            <td>WS-AirFright</td>
             <td>CartMe</td>
             <td>Cweetbeatz</td>
             <td>Fashion5</td>  
@@ -51,7 +51,7 @@
     </thead>
     <tr>
         <td>
-            <a href="#">
+            <a href="https://ws-airfright.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(532).png" width="200">
             </a>
         </td>          
