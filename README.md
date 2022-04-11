@@ -46,7 +46,8 @@
             <td>WS-AirFright</td>
             <td>CartMe</td>
             <td>Cweetbeatz</td>
-            <td>Fashion5</td>  
+            <td>Fashion5</td> 
+            <td>Quickbooks-ERP</td> 
         </tr>
     </thead>
     <tr>
@@ -67,6 +68,11 @@
         </td> 
            <td>
             <a href="https://fashion5.netlify.app/">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
+            </a>
+        </td> 
+               <td>
+            <a href="https://quickbooks-erp-client.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
             </a>
         </td> 
