@@ -73,7 +73,7 @@
         </td> 
                <td>
             <a href="https://quickbooks-erp-client.netlify.app/">
-                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
+                <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(176).png" width="200">
             </a>
         </td> 
     </tr>  
