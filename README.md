@@ -47,8 +47,7 @@
             <td>CartMe</td>
             <td>Cweetbeatz</td>
             <td>Fashion5</td> 
-           
-        </tr>
+       </tr>
     </thead>
     <tr>
         <td>
@@ -66,13 +65,12 @@
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(542).png" width="200">
             </a>
         </td> 
-           <td>
+        <td>
             <a href="https://fashion5.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(523).png" width="200">
             </a>
         </td> 
- 
-    </tr>  
+   </tr>  
 </table>
 
 #### As a blockchain developer and i love working in DeFi/Fintech projects.
