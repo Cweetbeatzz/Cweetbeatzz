@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ojo Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm Ojo Emmanuel OluwaSegun</h1>
 <p align="left"> <a href="https://twitter.com/cweetbeatz" target="blank"><img src="https://img.shields.io/twitter/follow/cweetbeatz?logo=twitter&style=for-the-badge" alt="cweetbeatz" /></a> </p>
 
 - 📫 How to reach me **cweetbeatz@gmail.com**
