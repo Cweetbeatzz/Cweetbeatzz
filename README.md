@@ -27,12 +27,12 @@
     </thead>
     <tr>
         <td>
-            <a href="https://coinplug.netlify.com//">
+            <a href="https://coinplug.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(517).png" width="200">
             </a>
         </td>
         <td>
-            <a href="https://bitecoinn.netlify.com//">
+            <a href="https://bitecoinn.netlify.com/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(510).png" width="200">
             </a>
         </td> 
