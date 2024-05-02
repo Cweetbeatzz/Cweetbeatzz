@@ -32,7 +32,7 @@
             </a>
         </td>
         <td>
-            <a href="https://bitecoinn.netlify.com/">
+            <a href="https://bitecoinn.netlify.app/">
                 <img src="https://github.com/Cweetbeatzz/Cweetbeatzz/blob/main/Screenshot%20(510).png" width="200">
             </a>
         </td> 
