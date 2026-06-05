@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ojo Emmanuel OluwaSegun</h1>
 <h3 align="center">Founding Engineer · Quecorex LLC</h3>
-<p align="center">7+ years engineering production systems. Building <strong>Quecorex</strong>, <strong>QueBids</strong> & <strong>QueBucket</strong>.</p>
+<p align="center">7+ years engineering production systems. Building <strong>Quecorex</strong>, <strong>QueBids</strong>, <strong>QueChains</strong> & <strong>QueBucket</strong>.</p>
 <p align="center"><a href="https://twitter.com/cweetbeatz" target="blank"><img src="https://img.shields.io/twitter/follow/cweetbeatz?logo=twitter&style=for-the-badge" alt="cweetbeatz" /></a></p>
 
 ---
