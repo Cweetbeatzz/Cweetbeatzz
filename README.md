@@ -7,14 +7,14 @@
 
 ### 🚀 Products @ Quecorex LLC
 
-<table><thead align="center"><tr><td><b>Quecorex</b></td><td><b>QueBucket</b></td><td><b>QueBids</b></td></tr></thead><tr><td align="center"><b>Healthcare SaaS</b><br/><br/>Hospital, clinic &amp; pharmacy management platform. EMR/EHR, pharmacy POS, DICOM/PACS radiology, laboratory, emergency, telehealth &amp; full hospital ops — built for healthcare facilities globally.</td><td align="center"><b>AI Productivity SaaS</b><br/><br/>Generate professional invoices &amp; client proposals in seconds using AI. Describe your service, client, and terms — get polished, branded PDF/DOCX documents ready to send.</td><td align="center"><b>Procurement Intelligence</b><br/><br/>Global platform aggregating government &amp; corporate tender opportunities from hundreds of sources. Organized by region, country, sector &amp; budget with personalized alerts.</td></tr></table>
+<table><thead align="center"><tr><td><b>Quecorex</b></td><td><b>QueBucket</b></td><td><b>QueBids</b></td><td><b>QueChains</b></td></tr></thead><tr><td align="center"><b>Healthcare SaaS</b><br/><br/>Hospital, clinic &amp; pharmacy management platform. EMR/EHR, pharmacy POS, DICOM/PACS radiology, laboratory, emergency, telehealth &amp; full hospital ops — built for healthcare facilities globally.</td><td align="center"><b>AI Productivity SaaS</b><br/><br/>Generate professional invoices &amp; client proposals in seconds using AI. Describe your service, client, and terms — get polished, branded PDF/DOCX documents ready to send.</td><td align="center"><b>Procurement Intelligence</b><br/><br/>Global platform aggregating government &amp; corporate tender opportunities from hundreds of sources. Organized by region, country, sector &amp; budget with personalized alerts.</td><td align="center"><b>Supply Chain &amp; Logistics</b><br/><br/>Supply chain and logistics management platform with a complete shipment lifecycle backend — carrier tracking, real-time delivery updates, and queue-driven event processing.</td></tr></table>
 
 ---
 
 ### 🔭 Currently Exploring
 
 - **MCP / AI Agents** — Agentic workflows & Model Context Protocol integrations
-- **Local LLMs** — Gemma, Qwen2.5-Coder on RTX A2000 for on-premise AI features
+- **Local LLMs** — Gemma, Qwen2.5-Coder for on-premise AI features
 - **SMART on FHIR** — Epic sandbox & clinical interoperability standards
 - **Multi-region infra** — Scaling distributed SaaS deployments globally
 
